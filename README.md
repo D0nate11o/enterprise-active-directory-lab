@@ -98,7 +98,7 @@ Implemented Least Privilege access model.
 
 ### Shared Folder Permissions
 
-![Folder Permissions](screenshots/shared-folder-permissions.png)
+![Folder Permissions](screenshots/shared-folders-permissions.png)
 
 ---
 
